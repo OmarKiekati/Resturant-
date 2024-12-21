@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\resturant\resturant\bin\Debug\Database1.mdf
+C:\Users\hp\source\repos\resturant\resturant\bin\Debug\Database1_log.ldf
+C:\Users\hp\source\repos\resturant\resturant\bin\Debug\resturant.exe.config
+C:\Users\hp\source\repos\resturant\resturant\bin\Debug\resturant.exe
+C:\Users\hp\source\repos\resturant\resturant\bin\Debug\resturant.pdb
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.login_form.resources
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.Properties.Resources.resources
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.exe
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.pdb
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.empHome.resources
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.admHome.resources
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.addUser.resources
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.addProduct.resources
+C:\Users\hp\source\repos\resturant\resturant\obj\Debug\resturant.addCategory.resources
