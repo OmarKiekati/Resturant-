@@ -59,7 +59,7 @@
             this.login.BackColor = System.Drawing.Color.LightSeaGreen;
             this.login.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.login.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.login.Location = new System.Drawing.Point(44, 273);
+            this.login.Location = new System.Drawing.Point(44, 259);
             this.login.Margin = new System.Windows.Forms.Padding(2);
             this.login.Name = "login";
             this.login.Size = new System.Drawing.Size(176, 35);
